@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Praveen 👋 
 
-<!--
-**PraveenBarathi-K/PraveenBarathi-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I'm a passionate developer and machine learning enthusiast currently exploring the realms of web development and AI. I love building efficient and user-friendly solutions while experimenting with the latest technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Programming Languages:** Python, Java, C  
+- **Database:** MySQL, MongoDB  
+- **Frontend Development:** HTML/CSS, JavaScript, ReactJS  
+- **Backend Development:** PHP, NodeJS, Flask  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Working On
+- Developing advanced websites and exploring machine learning concepts.  
+- Experimenting with OpenAI APIs to create innovative solutions.
+
+### 💬 Ask Me About
+- Web development with **React**, **JavaScript**, **NodeJS**, and **Flask**.  
+- Integrating AI capabilities using OpenAI APIs.  
+
+### 📫 How to Reach Me
+- **Email:** [praveenbarathi95@gmail.com](mailto:praveenbarathi95@gmail.com)
+
+### 😄 Pronouns
+He/Him
+
+### ⚡ Fun Fact
+I can code faster than I can type! 🎯  
