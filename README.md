@@ -4,7 +4,7 @@
 I'm a passionate developer and machine learning enthusiast currently exploring the realms of web development and AI. I love building efficient and user-friendly solutions while experimenting with the latest technologies.
 
 ### 🛠️ Skills
-- **Programming Languages:** Python, Java, C  
+- **Programming Languages:** Python, Java, C, C++  
 - **Database:** MySQL, MongoDB  
 - **Frontend Development:** HTML/CSS, JavaScript, ReactJS  
 - **Backend Development:** PHP, NodeJS, Flask  
